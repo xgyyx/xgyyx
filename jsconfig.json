@@ -1,0 +1,11 @@
+{
+  "exclude": ["node_modules", "dist"],
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "module": "esnext",
+    "checkJs": true,
+    "jsx": "react",
+    "baseUrl": "./",
+    "moduleResolution": "node"
+  }
+}
